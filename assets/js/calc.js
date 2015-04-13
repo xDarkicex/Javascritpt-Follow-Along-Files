@@ -5,3 +5,4 @@ function calculateloan (amount, month, interest){
 
 calculateloan(10,2,0.01);
 calculateloan(12000,72,0.065);
+calculateloan(310000,660,0.004);
